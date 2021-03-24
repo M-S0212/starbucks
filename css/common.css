@@ -271,10 +271,6 @@ header .main-menu {
   display: flex;
 }
 
-header .main-menu .item {
-  
-}
-
 header .main-menu .item .item__name {
   /* 위, 오른쪽, 아래, 왼쪽 */
   padding: 10px 20px 34px 20px;
